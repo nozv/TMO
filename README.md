@@ -6,3 +6,8 @@
 ## Рубежные контроли
 
 1. [Рубежный контроль №1](https://github.com/nozv/TMO/blob/main/RK1.pdf)
+2. [Рубежный контроль №2](https://github.com/nozv/TMO/blob/main/RK2.pdf)
+
+## НИРС
+
+1. [Отчет по НИРС]()
