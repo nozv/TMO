@@ -5,7 +5,7 @@
 3. [Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей](https://nbviewer.org/github/nozv/TMO/blob/main/Lab/LR3.ipynb)
 4. [Линейные модели, SVM и деревья решений](https://nbviewer.org/github/nozv/TMO/blob/main/Lab/LR4.ipynb)
 5. [Ансамбли моделей машинного обучения](https://nbviewer.org/github/nozv/TMO/blob/main/Lab/LR5.ipynb)
-6. [Анализ и прогнозирование временного ряда](https://nbviewer.org/github/nozv/TMO/blob/main/Lab/LR6.ipynb)
+6. [Анализ и прогнозирование временного ряда](https://nbviewer.org/github/nozv/TMO/blob/main/Lab/LR6_1.ipynb)
 
 ## Рубежные контроли
 
